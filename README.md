@@ -9,7 +9,7 @@ There are different approaches for calculating the Eg. In this project I chose t
 
 # Data
 For the example data I chose my own experimental data obtained by UV-VIS spectroscopy of transparent titanium dioxide thin films. In these two measurements, ultra-violet and visible light passes through the sample or is reflected off the surface of the sample and we track, using special sensors, how that light changes in intensity in respect to its wavelength. 
-These measurements showed how much of the light dependent on its wavelength was absorbed (Absorbance), reflected (Reflectance) or passed through (Transmittance) the material. From these simple observations we can calculate the optical Eg using the Tauc method
+These measurements showed how much of the light dependent on its wavelength was absorbed (Absorbance), reflected (Reflectance) or passed through (Transmittance) the material. From these simple observations we can calculate the optical Eg using the Tauc method.
 
 # Tools
 __Python__  
