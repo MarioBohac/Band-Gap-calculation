@@ -8,8 +8,8 @@ Knowing the value of Eg gives important insight into a materials properties. Dep
 There are different approaches for calculating the Eg. In this project I chose the [Tauc](https://en.wikipedia.org/wiki/Tauc_plot) plot method using calculations for allowed transitions in direct and indirect types of Eg.
 
 # Data
-For the example data I chose my own experimental data obtained by UV-VIS spectroscopy of transparent titanium dioxide thin films. In these two measurements, ultra-violet and visible light passes through the sample or is reflected off the surface of the sample and we track, using special sensors, how that light changes in intensity in respect to its wavelength. 
-These measurements showed how much of the light dependent on its wavelength was absorbed (Absorbance), reflected (Reflectance) or passed through (Transmittance) the material. From these simple observations we can calculate the optical Eg using the Tauc method.
+For the example data I chose my own experimental data obtained by UV-VIS spectroscopy of transparent titanium dioxide thin films. In this measurements ultra-violet and visible light passes through the sample or is reflected off the surface of the sample. We then track track, using special sensors, how that light changes in intensity in respect to its wavelength. 
+These measurements showed how much of the light dependent on its wavelength was absorbed (Absorbance), reflected (Reflectance) or passed through (Transmittance) the material. From these simple observations and the measure thickness of the films we can calculate the optical Eg using the Tauc method.
 
 # Tools
 __Python__  
